@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,700&display=swap');
+
+body{
+    background-image: url("./img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 50px;
+    margin-left: 250px;
+}
+
+h1{
+    margin-left: 5px;
+    font-family: 'Lora', serif;
+    font-size: 45px;
+    -webkit-text-stroke: 1px white;
+     color: black;
+}
+
+
+
+
+
+.botaoLigar{
+    background-color:#189418 ;
+    color: white;
+    border:0px;
+    width: 80px;
+    height: 28px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-right: 28px;
+
+
+}
+
+.botaoDesligar{
+    background-color:#BC1313;
+    color: white;
+    border:0px;
+    width: 80px;
+    height: 28px;
+    border-radius: 15px;
+    cursor: pointer;
+
+    
+
+}
